@@ -2,7 +2,7 @@ Final Archive for the 2018 Spring Semester Software Engineering project called V
 Rutgers University Electrical and Computer Engineering Department. Group 10: Khalid Akash, Vikas Khan, Dhruvik Patel, Joe Cella, Sagar Phanda, Yiwen Tao.
 
 To run the program, simply go to the code/VirtualLogicLabs directory and run the executable file (Windows x86/64 only) called VLL.exe. 
-Another way to run the program is to download the Unity Engine Framework and open the code/VirtualLogicLabs as a project, and run the 'Login.unity' scene.
+Another way to run the program is to download the Unity Engine Framework and open the /code/ as a project, and run the 'Login.unity' scene.
 
 For the future, if the online database is no longer operational, simply login to the Student Subsystem with the following values- 
 Username: student Password: student
