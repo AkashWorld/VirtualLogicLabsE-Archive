@@ -1,5 +1,6 @@
 # VirtualLogicLabsE-Archive
-Final Archive for the 2018 Spring Semester Software Engineering project called Virtual Logic Labs for the Rutgers University Electrical and Computer Engineering Department. 
+Final Archive for the 2018 Spring Semester Software Engineering project called Virtual Logic Labs for the Rutgers University Electrical and Computer Engineering Department.   
+
 Group 10: Khalid Akash, Vikas Khan, Dhruvik Patel, Joe Cella, Sagar Phanda, Yiwen Tao.
 
 [![Demo Preview of the Project](https://img.youtube.com/vi/CsVZMjCCOYc/0.jpg)](https://www.youtube.com/watch?v=CsVZMjCCOYc)
